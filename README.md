@@ -27,6 +27,6 @@ I2C, SPI, UART, register-level peripheral config, hardware bring-up
 
 ## Contact
 
-[margeaux_corrigan@brown.edu](mailto:margeaux_corrigan@brown.edu) · 
+[margeauxcorrigan@gmail.com](mailto:margeauxcorrigan@gmail.com) · 
 [LinkedIn](https://linkedin.com/in/margeaux-c-559142303) · 
 [margxx.github.io](https://margxx.github.io)
