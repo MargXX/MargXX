@@ -1,21 +1,32 @@
 # Margeaux Corrigan
 
-Freshman at Brown University (Class of 2029), studying Electrical Engineering. Interested in embedded systems and low-level hardware programming.
+EE student at Brown (Class of 2029) — I build embedded systems from the 
+register level up. Bare-metal firmware in Ada and C, no HAL abstractions.
 
-Currently working as Avionics Team Lead on [Brown Rocketry's IREC 2025-2026 entry](https://github.com/Brown-Rocketry/IREC-2025-2026) — bare-metal Ada firmware on an RP2040 for a flight data acquisition system, logging IMU and barometric data to SPI flash.
+## Currently
 
----
+- **Brown IVL Lab** — incoming paid researcher on multi-camera capture 
+  and calibration systems in C++ (UTRA Award, Summer 2026)
+- **Brown Rocketry** — Co-President and Avionics Lead; contributed to 
+  Brown's first-ever IREC acceptance
 
-### Skills
+## Skills
 
-- **Embedded:** Ada (bare-metal, `light-cortex-m0p` runtime), RP2040, STM32, I2C, SPI, UART
-- **Languages:** Ada, Python, Java, MATLAB, C
-- **CAD & Manufacturing:** SolidWorks, Fusion 360, FEA structural analysis, CAM toolpath generation
-- **Tools:** Alire, OpenOCD, CMSIS-DAP, GNAT ARM toolchain, Git
+**Embedded:** Ada (bare-metal, light-cortex-m0p), C, RP2040, STM32,  
+I2C, SPI, UART, register-level peripheral config, hardware bring-up  
+**Languages:** Ada, C/C++, Python, Java, MATLAB  
+**Tools:** Alire, OpenOCD, CMSIS-DAP, GNAT ARM toolchain, KiCad, Git  
+**Hardware:** SolidWorks, Fusion 360, FEA, CAM, soldering
 
----
+## Projects
 
-### Projects
+- **[Rocket Payload Firmware](link)** — bare-metal Ada on RP2040; 
+  logged 12+ G flight data live on a high-power launch
+- **[Bare-Metal Driver Stack](link)** — C drivers for GPIO, SysTick, 
+  UART, I2C (in progress); no HAL, direct register access
 
-**[IREC 2025-2026 Payload Firmware](https://github.com/Brown-Rocketry/IREC-2025-2026/tree/main/terrarium_pico)** — Brown Rocketry  
-Flight data logger for a high-power rocket payload. Polls LSM9DS1 IMU and BMP390 barometric sensor over I2C, packs 28-byte samples into 256-byte pages, and writes sequentially to a W25Q128 SPI flash chip. Written in Ada on the RP2040 bare-metal runtime with direct SVD register access for SPI and timing.
+## Contact
+
+[margeaux_corrigan@brown.edu](mailto:margeaux_corrigan@brown.edu) · 
+[LinkedIn](https://linkedin.com/in/margeaux-c-559142303) · 
+[margxx.github.io](https://margxx.github.io)
