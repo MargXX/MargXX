@@ -5,18 +5,17 @@ register level up. Bare-metal firmware in Ada and C, no HAL abstractions.
 
 ## Currently
 
-- **Brown IVL Lab** — incoming paid researcher on multi-camera capture 
-  and calibration systems in C++ (UTRA Award, Summer 2026)
+- **Brown IVL Lab** — Supporting multi-camera rig development: PCB schematic design, CAD modeling, and 3D-printed enclosure fabrication  (UTRA Award, Summer 2026)
 - **Brown Rocketry** — Co-President and Avionics Lead; contributed to 
   Brown's first-ever IREC acceptance
 
 ## Skills
 
-**Embedded:** Ada (bare-metal, light-cortex-m0p), C, RP2040, STM32,  
-I2C, SPI, UART, register-level peripheral config, hardware bring-up  
-**Languages:** Ada, C/C++, Python, Java, MATLAB  
-**Tools:** Alire, OpenOCD, CMSIS-DAP, GNAT ARM toolchain, KiCad, Git  
-**Hardware:** SolidWorks, Fusion 360, FEA, CAM, soldering
+**Programming:** C, Python (NumPy, Pandas, Matplotlib), Ada, MATLAB, Java, OCaml, Racket  
+**Embedded Systems:** Bare-metal firmware (RP2040, STM32), register-level programming, I2C/SPI/UART
+**Hardware:** Schematic design(KiCad), soldering, CAD & CAM(SolidWorks, Fusion 360), FEA, 3D printing, sheet metal fabrication  
+**Tools:** Git/GitHub, CMake, OpenOCD, CMSIS-DAP, Saleae Logic, oscilloscope, serial monitor, Alire
+
 
 ## Projects
 
