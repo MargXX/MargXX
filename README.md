@@ -1,7 +1,7 @@
 # Margeaux Corrigan
 
 EE student at Brown (Class of 2029) — I build embedded systems from the 
-register level up. Bare-metal firmware in Ada and C, no HAL abstractions.
+register level up. Bare-metal firmware in Ada and C so far
 
 ## Currently
 
