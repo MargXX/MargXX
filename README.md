@@ -17,7 +17,7 @@ Platform layer isolates register maps for a future STM32 port.
 **[IREC 2025-2026 Payload Firmware](https://github.com/Brown-Rocketry/IREC-2025-2026/tree/main/terrarium_pico)**
 Bare-metal Ada flight data logger on an RP2040, built as sole developer. Polls an LSM9DS1 and BMP390 over I2C and
 logs to W25Q128 SPI flash. Flew on a live high-power launch and logged 25 hours of
-sensor data, including flight loads above 12 G.
+sensor data, including flight loads above 16 G.
 
 **[margxx.github.io](https://margxx.github.io)**
 Portfolio with build photos, flight data plots, and project writeups.
